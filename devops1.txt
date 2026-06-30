@@ -77,12 +77,7 @@ Git Collaboration
 	Collaboration is the process of building apps by many developers
 	by sharing a git repo.
 
-	
-
-
-
-
-
+	git clone is used for cloning the created repository 
 
 
 
