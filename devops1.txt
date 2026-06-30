@@ -120,6 +120,18 @@ Git Collaboration
 
 
 
+STASHING 
+--------
+
+
+it is to store the changes that done in a place and pull the changes happend in the main file  without losing the changes done by us 
+
+steps :-
+
+1 . git status 
+2.  git stash (it store the data to a place)
+3.  git pull(it pulls the data to the file that have changes in ths remotre repo)
+4. git stash pop (it pushes the data that are stored by stashing to the main )
 
 
 
