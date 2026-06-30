@@ -100,8 +100,15 @@ Git Collaboration
 	I changed this content to my branch
 
 
+	I make 56 changes in my file
+
+
 	
 
+
+
+
+	
 	
 
 
@@ -111,6 +118,7 @@ Git Collaboration
 	one more time added a 
 	new line
 	 abhay
+
 
 
 	aman created a in brachname aman
@@ -132,6 +140,7 @@ steps :-
 2.  git stash (it store the data to a place)
 3.  git pull(it pulls the data to the file that have changes in ths remotre repo)
 4. git stash pop (it pushes the data that are stored by stashing to the main )
+
 
 
 
