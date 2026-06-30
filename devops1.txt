@@ -90,6 +90,25 @@ Git Collaboration
 	This is a second line added by siva
 
 
+
+	git branch:- Used to display the current local branches
+	
+	How to create a branch
+
+	git checkout -b <branch-name>
+
+	I changed this content to my branch
+
+
+	
+
+
+
+
+	
+	
+
+
 	
 	line added by abhay 
 
