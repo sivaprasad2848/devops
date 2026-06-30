@@ -100,8 +100,15 @@ Git Collaboration
 	I changed this content to my branch
 
 
+	I make 56 changes in my file
+
+
 	
 
+
+
+
+	
 	
 
 
@@ -113,10 +120,12 @@ Git Collaboration
 	 abhay
 
 
+
 	aman created a in brachname aman
 
 	added a new line to check stashing
 	to check stashing
+
 
 
 
