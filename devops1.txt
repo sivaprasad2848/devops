@@ -113,14 +113,10 @@ Git Collaboration
 	 abhay
 
 
-
 	aman created a in brachname aman
 
-	->created a new branch for trail
-
-
-
-
+	added a new line to check stashing
+	to check stashing
 
 
 
