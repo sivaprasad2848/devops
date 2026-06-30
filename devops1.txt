@@ -74,7 +74,10 @@ How to add files in git folder and moving to cloud
 ------------------------------------------
 Git Collaboration
 ------------------
+	Collaboration is the process of building apps by many developers
+	by sharing a git repo.
 
+	
 
 
 
