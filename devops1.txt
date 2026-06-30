@@ -78,6 +78,8 @@ Git Collaboration
 	by sharing a git repo.
 
 	git clone is used for cloning the created repository 
+	
+	a clone command which is used for cloning the exititng repository from git hub
 
 
 
