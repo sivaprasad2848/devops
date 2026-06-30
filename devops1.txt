@@ -1,0 +1,166 @@
+Git
+------------------------
+ It is a software that is used for two main purpose
+
+	->Code Repository
+
+	->Version Controll Software
+
+	Versioning 
+
+		<Major>.<Minor>.<Class>
+
+
+		Major:- Core Features are changed
+		Minor:- Addons
+		Class:- Patches(For only specific group)
+
+There are two parts for git
+
+	1) Git Client- Is the Local System
+	2) Git Hub-  Is the cloud
+
+	How to check if git client exists
+	-------------------------------------
+	
+	git --version
+
+
+Client Configuration in git
+-----------------------------------------
+
+	Listing Client Configuration
+
+
+		git config --list
+
+
+	Setting the configuration
+
+		git config --global user.name "username"
+		git config --global user.email "useremail"
+
+-------------------------------------------
+How to create a repo and connect with local
+--------------------------------------------
+	1)Create your new repo in git hub	
+	2) Copy the git commands from created repo page
+	3) create a folder in you computer where you want to connection with hub
+	4) open the folder in "cmd" paste the command.
+
+
+----------------------------------------------
+How to add files in git folder and moving to cloud
+-----------------------------------------------
+
+
+	git status:
+			Used for cehcking the status of git local repo
+
+	git add
+		For adding to staging area
+
+	git commit -m "message"
+
+		For adding to local repo
+
+	git push
+		
+		For transfer to remote
+
+
+	git pull
+		used for collecting the changes from server/cloud
+------------------------------------------
+Git Collaboration
+------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
